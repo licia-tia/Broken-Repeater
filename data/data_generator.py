@@ -3,7 +3,6 @@ import requests
 import re
 from multiprocessing import Pool
 import json
-//login
 
 
 def test():
