@@ -16,7 +16,7 @@ def duang(_input):
 
 
 if __name__ == '__main__':
-    input = '你要去做什么更重要的事吗？我这里又稻谷也有泉水'
+    input = '不，应邀帮人搞事'
     print(input)
     print(duang(input))
 
